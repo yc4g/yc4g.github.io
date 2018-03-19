@@ -25,14 +25,14 @@ body.fh5co-offcanvas {
 }
 
 a {
-  color: #14e030;
+  color: #0fbd18;
   -webkit-transition: 0.5s, ease;
   -o-transition: 0.5s, ease;
   transition: 0.5s, ease;
 }
 a:hover {
   text-decoration: none !important;
-  color: #11ca29 !important;
+  color: #0c7a1a !important;
 }
 
 p, ul, ol {
@@ -86,7 +86,7 @@ figure {
 
 .header-top {
   padding: 10px 0;
-  background: #12ce1c;
+  background: #0fbd18;
 }
 .header-top .fh5co-link a {
   margin-left: 10px;
@@ -274,11 +274,11 @@ figure {
   border-bottom: none !important;
 }
 .sf-menu a:hover, .sf-menu a:focus {
-  color: #1ceb2d !important;
+  color: #0fbd18 !important;
 }
 
 .sf-menu li.active a:hover, .sf-menu li.active a:focus {
-  color: #0fc938;
+  color: #0ca02c;
 }
 
 .sf-menu li,
@@ -302,7 +302,7 @@ figure {
 .sf-menu ul li:hover a,
 .sf-menu ul li.sfHover a,
 .sf-menu li.active a {
-  color: #23df2c;
+  color: #0fbd18;
 }
 
 .sf-menu ul li:hover,
@@ -385,7 +385,7 @@ figure {
   }
 }
 #fh5co-logo a {
-  color: #18d848;
+  color: #0fbd18;
 }
 #fh5co-logo a:hover, #fh5co-logo a:focus {
   color: #09c027 !important;
