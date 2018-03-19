@@ -25,7 +25,7 @@ body.fh5co-offcanvas {
 }
 
 a {
-  color: #0fbd18;
+  color: #0fb417;
   -webkit-transition: 0.5s, ease;
   -o-transition: 0.5s, ease;
   transition: 0.5s, ease;
@@ -86,7 +86,7 @@ figure {
 
 .header-top {
   padding: 10px 0;
-  background: #0fbd18;
+  background: #0fb417;
 }
 .header-top .fh5co-link a {
   margin-left: 10px;
@@ -385,7 +385,7 @@ figure {
   }
 }
 #fh5co-logo a {
-  color: #0fbd18;
+  color: #0fb417;
 }
 #fh5co-logo a:hover, #fh5co-logo a:focus {
   color: #09c027 !important;
@@ -403,7 +403,7 @@ figure {
 }
 
 #fh5co-primary-menu > li > ul li.active > a {
-  color: #ff5722 !important;
+  color: #0fb417 !important;
 }
 #fh5co-primary-menu > li > .sf-with-ul:after {
   border: none !important;
