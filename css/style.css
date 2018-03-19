@@ -25,14 +25,14 @@ body.fh5co-offcanvas {
 }
 
 a {
-  color: #ff5722;
+  color: #25e034;
   -webkit-transition: 0.5s, ease;
   -o-transition: 0.5s, ease;
   transition: 0.5s, ease;
 }
 a:hover {
   text-decoration: none !important;
-  color: #ff5722 !important;
+  color: #12990d !important;
 }
 
 p, ul, ol {
@@ -86,7 +86,7 @@ figure {
 
 .header-top {
   padding: 10px 0;
-  background: #ff5722;
+  background: #2bd155;
 }
 .header-top .fh5co-link a {
   margin-left: 10px;
@@ -385,7 +385,7 @@ figure {
   }
 }
 #fh5co-logo a {
-  color: #ff5722;
+  color: #1fb82c;
 }
 #fh5co-logo a:hover, #fh5co-logo a:focus {
   color: #ff5722 !important;
