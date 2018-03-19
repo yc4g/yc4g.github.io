@@ -25,14 +25,14 @@ body.fh5co-offcanvas {
 }
 
 a {
-  color: #1be436;
+  color: #14e030;
   -webkit-transition: 0.5s, ease;
   -o-transition: 0.5s, ease;
   transition: 0.5s, ease;
 }
 a:hover {
   text-decoration: none !important;
-  color: #13da2d !important;
+  color: #11ca29 !important;
 }
 
 p, ul, ol {
@@ -86,7 +86,7 @@ figure {
 
 .header-top {
   padding: 10px 0;
-  background: #13cc1c;
+  background: #12ce1c;
 }
 .header-top .fh5co-link a {
   margin-left: 10px;
@@ -274,11 +274,11 @@ figure {
   border-bottom: none !important;
 }
 .sf-menu a:hover, .sf-menu a:focus {
-  color: #1be92d !important;
+  color: #1ceb2d !important;
 }
 
 .sf-menu li.active a:hover, .sf-menu li.active a:focus {
-  color: #10d83b;
+  color: #0fc938;
 }
 
 .sf-menu li,
